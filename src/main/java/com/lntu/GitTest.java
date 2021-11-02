@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello Idea_maven_git!");
         System.out.println("hello Idea_maven_git2!");
         System.out.println("hello Idea_maven_git3!");
+        System.out.println("hello hot-fix branch commit!");
     }
 }
