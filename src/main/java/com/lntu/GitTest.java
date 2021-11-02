@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("mater branch commit for conflict merge testing!");
         System.out.println("hot-fix branch commit for conflict merge testing!");
         System.out.println("push test!");
+        System.out.println("pull test!");
     }
 }
